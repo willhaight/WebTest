@@ -3,5 +3,17 @@ background-color: 038cfc;
 }
 
 #first {
+  border-style: solid;
+  border-width: 150px;
+  border-radius: 10px;
   padding-left: 150px;
+  padding-right: 150px;
+  float: left;
+}
+
+#second {
+ border-style: solid;
+ padding-right: 150px;
+ float: right
+ border-radius: 10px;
 }
